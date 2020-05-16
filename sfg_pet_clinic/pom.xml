@@ -60,7 +60,7 @@
     <scm>
         <url>https://github.com/GayalBalasooriya/Pet_Clinic_App.git</url>
         <connection>scm:git:https://github.com/GayalBalasooriya/Pet_Clinic_App.git</connection>
-        <tag>sfg_pet_clinic-0.0.3</tag>
+        <tag>sfg_pet_clinic-0.0.4</tag>
     </scm>
 
 </project>

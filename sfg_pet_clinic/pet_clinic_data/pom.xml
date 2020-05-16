@@ -68,7 +68,7 @@
     <distributionManagement>
         <repository>
             <uniqueVersion>false</uniqueVersion>
-            <id>corp1</id>
+            <id>https://github.com/GayalBalasooriya/Pet_Clinic_App.git</id>
             <name>Pet_Clinic_App</name>
             <url>https://github.com/GayalBalasooriya/Pet_Clinic_App</url>
             <layout>default</layout>

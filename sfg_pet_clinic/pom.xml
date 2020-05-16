@@ -55,7 +55,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com/GayalBalasooriya/Spring-Framework.git</developerConnection>
+        <developerConnection>scm:git:git@github.com/GayalBalasooriya/Pet_Clinic_App.git</developerConnection>
     </scm>
 
 </project>

@@ -64,4 +64,14 @@
             </plugin>
         </plugins>
     </build>
+
+    <distributionManagement>
+        <repository>
+            <uniqueVersion>false</uniqueVersion>
+            <id>corp1</id>
+            <name>Pet_Clinic_App</name>
+            <url>https://github.com/GayalBalasooriya/Pet_Clinic_App</url>
+            <layout>default</layout>
+        </repository>
+    </distributionManagement>
 </project>

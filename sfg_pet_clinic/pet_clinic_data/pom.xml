@@ -67,11 +67,17 @@
 
     <distributionManagement>
         <repository>
-            <uniqueVersion>false</uniqueVersion>
-            <id>https://github.com/GayalBalasooriya/Pet_Clinic_App.git</id>
+<!--            <uniqueVersion>false</uniqueVersion>-->
+            <id>releases</id>
             <name>Pet_Clinic_App</name>
-            <url>https://github.com/GayalBalasooriya/Pet_Clinic_App</url>
+            <url>http://localHost:8080/GayalBalasooriya/Pet_Clinic_App/</url>
             <layout>default</layout>
         </repository>
+
+        <snapshotRepository>
+            <id>snapshots</id>
+            <name>Snapshots</name>
+            <url>http://localHost:8080/GayalBalasooriya/Pet_Clinic_App/</url>
+        </snapshotRepository>
     </distributionManagement>
 </project>

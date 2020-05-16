@@ -53,9 +53,13 @@
         </plugins>
     </build>
 
+<!--    <scm>-->
+<!--        <developerConnection>scm:git:git@github.com/GayalBalasooriya/Pet_Clinic_App.git</developerConnection>-->
+<!--      <tag>sfg_pet_clinic-0.0.3</tag>-->
+<!--  </scm>-->
     <scm>
-        <developerConnection>scm:git:git@github.com/GayalBalasooriya/Pet_Clinic_App.git</developerConnection>
-      <tag>sfg_pet_clinic-0.0.3</tag>
-  </scm>
+        <url>https://github.com/GayalBalasooriya/(repo)Pet_Clinic_App.git</url>
+        <connection>scm:git:https://github.com/GayalBalasooriya/Pet_Clinic_App.git</connection>
+    </scm>
 
 </project>
